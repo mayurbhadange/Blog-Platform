@@ -27,7 +27,7 @@ To install and run this project locally, add the following commands in your term
 1. Clone the repository from GitHub:
 
    ```bash
-   `git clone https://github.com/Shreekar11/Blog-Platform.git`
+   `git clone https://github.com/mayurbhadange/Blog-Platform.git`
 
    ```
 
@@ -90,23 +90,5 @@ To install and run this project locally, add the following commands in your term
 
 11. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-# Images
 
-## Home page
-![Screenshot (348)](https://github.com/Shreekar11/Blog-Platform/assets/123613407/a0ff6f32-b1a8-42ac-bb11-86edab02de4f)
-
-## Dashboard
-![Screenshot (349)](https://github.com/Shreekar11/Blog-Platform/assets/123613407/2d772e5c-2b38-4237-952e-78b7500ae60c)
-
-## Search Author blogs
-![Screenshot (350)](https://github.com/Shreekar11/Blog-Platform/assets/123613407/bb6f9d2c-8280-4908-bf49-1f1c1e650370)
-
-## Login page
-![Screenshot (346)](https://github.com/Shreekar11/Blog-Platform/assets/123613407/3ca0da56-d481-446c-a858-f644863867f1)
-
-## Register page
-![Screenshot (347)](https://github.com/Shreekar11/Blog-Platform/assets/123613407/b4e955d3-201f-4804-a08d-1dbef066e1c1)
-
-## Analysis
-![Screenshot 2024-05-17 200624](https://github.com/Shreekar11/Blog-Platform/assets/123613407/1d7eb207-d858-497c-988b-4b921494172a)
 
